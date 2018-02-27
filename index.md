@@ -1,6 +1,14 @@
-## Welcome to GitHub Pages
+## Projects Diary
 
-You can use the [editor on GitHub](https://github.com/verbal-ale/verbal-ale.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here are some projects I have worked on in my own time. 
+
+### Realistic 3D Composition of a Refurbished House
+
+My parents have this house in the country side, an hour and a half drive from where they live now. They want to refurbish it completely (it's a very old house) and eventually move there when they both retire. As I ahd Architectual 3D Design in university I decided to create a 3D model of the future building. I had my dad draw a couple of rough blueprints and put in the measurements of the house. From there me and my parents would have skype sessions now and again so they can have their input on what ot be done and give opinion on what has been done so far. 
+
+#26.02.2018
+Completed Building with Tiled Roof, Some PVC Windows 
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
