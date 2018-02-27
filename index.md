@@ -9,10 +9,10 @@ My parents have this house in the country side, an hour and a half drive from wh
 ### 26.02.2018
 Completed building with tiled roof, some PVC windows
 
-Some Quick Renders |  
+Some Quick Renders |  BLak
 ------------ | -------------
-![1st Floor Layout](https://github.com/verbal-ale/villa-project/blob/master/1st%20Floor%20Layout%20Qucik%20Render.jpg?raw=true) | ![2nd Floor Layout](https://github.com/verbal-ale/villa-project/blob/master/2nd%20Floor%20Layout%20Qucik%20Render.jpg?raw=true)
-![Exterior](https://github.com/verbal-ale/villa-project/blob/master/Exterior%20Qucik%20Render.jpg?raw=true) | ![Windows](https://github.com/verbal-ale/villa-project/blob/master/Windows.jpg?raw=true) 
+BLak | BLak
+BLak | BLak
 
 ![1st Floor Layout](https://github.com/verbal-ale/villa-project/blob/master/1st%20Floor%20Layout%20Qucik%20Render.jpg?raw=true) 
 ![2nd Floor Layout](https://github.com/verbal-ale/villa-project/blob/master/2nd%20Floor%20Layout%20Qucik%20Render.jpg?raw=true) 
