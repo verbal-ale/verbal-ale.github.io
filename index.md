@@ -9,7 +9,7 @@ My parents have this house in the country side, an hour and a half drive from wh
 ### 26.02.2018
 Completed building with tiled roof, some PVC windows
 
-![House Exterior]https://github.com/verbal-ale/villa-project/blob/master/1st%20Floor%20Layout%20Qucik%20Render.jpg?raw=true) 
+![House Exterior](https://github.com/verbal-ale/villa-project/blob/master/1st%20Floor%20Layout%20Qucik%20Render.jpg?raw=true) 
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
