@@ -9,49 +9,7 @@ My parents have this house in the country side, an hour and a half drive from wh
 ### 26.02.2018
 Completed building with tiled roof, some PVC windows
 
-Some Quick Renders |  BLak
------------- | -------------
-BLak | BLak
-BLak | BLak
-
 ![1st Floor Layout](https://github.com/verbal-ale/villa-project/blob/master/1st%20Floor%20Layout%20Qucik%20Render.jpg?raw=true) 
 ![2nd Floor Layout](https://github.com/verbal-ale/villa-project/blob/master/2nd%20Floor%20Layout%20Qucik%20Render.jpg?raw=true) 
 ![Exterior](https://github.com/verbal-ale/villa-project/blob/master/Exterior%20Qucik%20Render.jpg?raw=true) 
 ![Windows](https://github.com/verbal-ale/villa-project/blob/master/Windows.jpg?raw=true) 
-
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-**Test** _Test_ and `Test`  
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/verbal-ale/verbal-ale.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
