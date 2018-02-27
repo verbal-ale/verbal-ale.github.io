@@ -9,6 +9,9 @@ My parents have this house in the country side, an hour and a half drive from wh
 ### 26.02.2018
 Completed building with tiled roof, some PVC windows
 
+![House Exterior](villa-project/1st Floor Layout Qucik Render.jpg
+) 
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
