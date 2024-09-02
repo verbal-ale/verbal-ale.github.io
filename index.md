@@ -8,6 +8,7 @@ An interactive dashboard I helped develop as part of my Data Visualisation and A
 ![Dashboard Overview](https://raw.githubusercontent.com/verbal-ale/uk-museums-dashboard/main/media/dashboard_overview.png)
 
 [View The Interactive Dashboard](https://verbal-ale.github.io/uk-museums-dashboard/)
+
 [View Repository](https://github.com/verbal-ale/uk-museums-dashboard)
 
 <!--- 
