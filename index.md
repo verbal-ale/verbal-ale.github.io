@@ -23,23 +23,23 @@ All interfaces started as LDAvis dashboards, as my literature review showed it t
 
 ![Demo Screenshot](https://raw.githubusercontent.com/verbal-ale/ldavis-vs-bubblemap/master/src/demo_screenshot.jpg)
 
-[View Experimental Conditions](https://verbal-ale.github.io/ldavis-vs-bubblemap/)
+- [View Experimental Conditions](https://verbal-ale.github.io/ldavis-vs-bubblemap/)
+- [View Dissertation](https://github.com/verbal-ale/ldavis-vs-bubblemap/tree/master/doc/topic_modelling_vis_comparison_a_varbanov_dissertation.pdf)
+- [View Repository](https://github.com/verbal-ale/ldavis-vs-bubblemap/)
 
-[View Dissertation](https://github.com/verbal-ale/ldavis-vs-bubblemap/tree/master/doc/topic_modelling_vis_comparison_a_varbanov_dissertation.pdf)
+---
 
-[View Repository](https://github.com/verbal-ale/ldavis-vs-bubblemap/)
-
-
-## UK Museums Data Dashboard
+## UK MUSEUMS DASHBOARD
 #### Mar - Apr 2024 
 ##### `D3.js, CSS, HTML`
 An interactive dashboard I helped develop as part of my Data Visualisation and Analytics course at Heriot-Watt University. For this coursework, myself and 3 other students were required to design and develop an interactive data visualisation application for a dataset of our choice.
 
 ![Dashboard Overview](https://raw.githubusercontent.com/verbal-ale/uk-museums-dashboard/main/media/dashboard_overview.png)
 
-[View The Interactive Dashboard](https://verbal-ale.github.io/uk-museums-dashboard/)
+- [View The Interactive Dashboard](https://verbal-ale.github.io/uk-museums-dashboard/)
+- [View Repository](https://github.com/verbal-ale/uk-museums-dashboard)
 
-[View Repository](https://github.com/verbal-ale/uk-museums-dashboard)
+---
 
 <!--- 
 ## Realistic 3D Composition of a Refurbished House
