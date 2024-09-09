@@ -1,5 +1,35 @@
 # Projects Diary
 
+<!--- LOG TEMPLATE
+## [PROJECT TITLE]
+#### [MONTH - MONTH] (Jan - Feb) [YEAR] (2024) 
+##### [TECHNOLOGIES, LANGUAGES, LIBRARIES] (`D3.js, CSS, HTML`)
+[SHORT DESCRIPTION]
+(An interactive dashboard I helped develop as part of my Data Visualisation and Analytics course at Heriot-Watt University. For this coursework, myself and 3 other students were required to design and develop an interactive data visualisation application for a dataset of our choice.)
+
+[IMG LINK]()
+[PRODUCT LINK]()
+[REPO LINK]()
+--->
+
+## TOPIC MODEL VISUALISATIONS: A QUALITATIVE USER EVALUATION STUDY
+#### Jan - Aug 2024
+##### `D3.js, CSS, HTML, Python, Scikit-learn`
+My **Masters Project** and **Dissertation**.
+
+In order to evaluate the usability of a projection-based topic modelling visualisation against a cluster-based one, I produced three interfaces for an experiment involving 22 participants.
+
+All interfaces started as LDAvis dashboards, as my literature review showed it to be the most prominent tool used by researchers. I incorporated a BubbleTreemap in place of the projection mapping used by LDAvis to produce my second condition. I also made an interface with no topic-space encoding for training purposes. The topic modelling output used as input for the various dashboards is the same and is derived from fitting an LDA topic model to Scikit-learn's 20 Newsgroups dataset.
+
+![Demo Screenshot](https://raw.githubusercontent.com/verbal-ale/ldavis-vs-bubblemap/master/src/demo_screenshot.jpg)
+
+[View Experimental Conditions](https://verbal-ale.github.io/ldavis-vs-bubblemap/)
+
+[View Dissertation](https://github.com/verbal-ale/ldavis-vs-bubblemap/tree/master/doc/topic_modelling_vis_comparison_a_varbanov_dissertation.pdf)
+
+[View Repository](https://github.com/verbal-ale/ldavis-vs-bubblemap/)
+
+
 ## UK Museums Data Dashboard
 #### Mar - Apr 2024 
 ##### `D3.js, CSS, HTML`
