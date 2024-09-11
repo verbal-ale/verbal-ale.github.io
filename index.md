@@ -1,4 +1,4 @@
-# Projects Diary
+# Project Diary
 
 <!--- LOG TEMPLATE
 ## [PROJECT TITLE]
@@ -15,6 +15,7 @@
 ## TOPIC MODEL VISUALISATIONS: A QUALITATIVE USER EVALUATION STUDY
 #### Jan - Aug 2024
 ##### `D3.js, CSS, HTML, Python, Scikit-learn`
+
 My **Masters Project** and **Dissertation**.
 
 In order to evaluate the usability of a projection-based topic modelling visualisation against a cluster-based one, I produced three interfaces for an experiment involving 22 participants.
@@ -32,6 +33,7 @@ All interfaces started as LDAvis dashboards, as my literature review showed it t
 ## UK MUSEUMS DASHBOARD
 #### Mar - Apr 2024 
 ##### `D3.js, CSS, HTML`
+
 An interactive dashboard I helped develop as part of my Data Visualisation and Analytics course at Heriot-Watt University. For this coursework, myself and 3 other students were required to design and develop an interactive data visualisation application for a dataset of our choice.
 
 ![Dashboard Overview](https://raw.githubusercontent.com/verbal-ale/uk-museums-dashboard/main/media/dashboard_overview.png)
