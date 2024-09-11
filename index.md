@@ -48,7 +48,7 @@ An interactive dashboard I helped develop as part of my Data Visualisation and A
 
 In this group coursework, I worked in a team on a data mining and machine learning project using GitHub as our collaborative platform. The project covered various aspects of data mining and machine learning, including basic concepts, generative models, discriminative learning, and practical application of these techniques. My contribution consisted mainly of the inital data exploration and integration of datasets in the first phase of the project and covering the clustering requirement in the second phase.
 
-![Clustering Report Image](https://raw.githubusercontent.com/verbal-ale/spotify-popularity-prediction/blob/master/assets/k-means_radar_plots.png)
+![Clustering Report Image](https://raw.githubusercontent.com/verbal-ale/spotify-popularity-prediction/master/assets/k-means_radar_plots.png)
 
 - [View Clustering Report](https://github.com/verbal-ale/spotify-popularity-prediction/tree/master/notebooks/models/Clustering)
 - [View Repository](https://github.com/verbal-ale/spotify-popularity-prediction/tree/master)
