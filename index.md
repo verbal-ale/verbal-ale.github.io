@@ -16,7 +16,7 @@
 #### Jan - Aug 2024
 ##### `D3.js, CSS, HTML, Python, Scikit-learn`
 
-My **Masters Project** and **Dissertation**.
+**Masters Project** and **Dissertation**.
 
 In order to evaluate the usability of a projection-based topic modelling visualisation against a cluster-based one, I produced three interfaces for an experiment involving 22 participants.
 
