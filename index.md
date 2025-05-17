@@ -1,4 +1,4 @@
-# Projects Diary
+# Project Diary
 
 <!--- LOG TEMPLATE
 ## [PROJECT TITLE]
@@ -51,11 +51,12 @@ All interfaces started as LDAvis dashboards, as my literature review showed it t
 ## UK MUSEUMS DASHBOARD
 #### Mar - Apr 2024 
 ##### `D3.js, CSS, HTML`
+
 An interactive dashboard I helped develop as part of my Data Visualisation and Analytics course at Heriot-Watt University. For this coursework, myself and 3 other students were required to design and develop an interactive data visualisation application for a dataset of our choice.
 
 ![Dashboard Overview](https://raw.githubusercontent.com/verbal-ale/uk-museums-dashboard/main/media/dashboard_overview.png)
 
-- [View The Interactive Dashboard](https://verbal-ale.github.io/uk-museums-dashboard/)
+- [View Interactive Dashboard](https://verbal-ale.github.io/uk-museums-dashboard/)
 - [View Repository](https://github.com/verbal-ale/uk-museums-dashboard)
 
 ---

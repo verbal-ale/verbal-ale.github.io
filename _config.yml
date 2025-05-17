@@ -1,14 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 title: Alex Varbanov 
-description: A few projects I have worked on as part of my MSc Data Science program at Heriot-Watt University 2023-2024.
+description: A few projects I worked on as part of the MSc Data Science programme at Heriot-Watt University 2023-2024.
 
 
-<style>
-body {
-  font-family: Arial, sans-serif;
-  color: #333333; /* Customize font color */
-}
-h1 {
-  color: #4CAF50; /* Customize heading color */
-}
-</style>
