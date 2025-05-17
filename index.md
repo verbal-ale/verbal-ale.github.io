@@ -12,10 +12,28 @@
 [REPO LINK]()
 --->
 
+## RESTAURANT SERVICE DATA ENGINEERING
+#### Mar 2025 - in progress
+##### `Python, SQL, dbt, BigQuery`
+**Practical Playground for Data Engineering**
+
+In March 2025, after being invited to an interview for a data engineering position, I decided to gain more hands-on, practical experience in the field. Until then, my exposure had primarily come from the Big Data Management course in my master’s program, which — despite being a great introduction — was broad, theory-driven, and focused mainly on non-relational database systems.
+
+To prepare for the interview, I began strengthening my `SQL` skills through online practice and self-study. I also explored `dbt` through its learning portal, and as a practical exercise, I built a simulated data pipeline in a domain I know well — hospitality.
+
+This experience sparked this playground project where I continue to explore the ins and outs of building and maintaining a data pipeline. 
+
+![Data Pipeline Flowchart](https://raw.githubusercontent.com/my-ood/restaurant-data-analytics/refs/heads/main/restaurant_ordering_pipeline_diagram.png)
+
+- [View Ordering Simulation Repository](https://github.com/verbal-ale/restaurant_service_simulation)
+- [View dbt Project Repository](https://github.com/my-ood/restaurant-data-analytics)
+
+---
+
 ## TOPIC MODEL VISUALISATIONS: A QUALITATIVE USER EVALUATION STUDY
 #### Jan - Aug 2024
 ##### `D3.js, CSS, HTML, Python, Scikit-learn`
-My **Masters Project** and **Dissertation**.
+**Masters Project** and **Dissertation**.
 
 In order to evaluate the usability of a projection-based topic modelling visualisation against a cluster-based one, I produced three interfaces for an experiment involving 22 participants.
 
